@@ -23,7 +23,7 @@
 ![MongoDB](http://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=MongoDB&logoColor=ffffff)
 ![MYSQL](http://img.shields.io/badge/-MYSQL-FFBF47?style=flat-square&logo=MYSQL&logoColor=ffffff)
 ![Tableau](http://img.shields.io/badge/-Tableau-F0731C?style=flat-square&logo=Tableau&logoColor=ffffff)
-
+<br>
 ![Tensorflow](http://img.shields.io/badge/-Tensorflow-F29A13?style=flat-square&logo=Tensorflow&logoColor=ffffff)
 ![Keras](http://img.shields.io/badge/-Keras-D50C0C?style=flat-square&logo=Keras&logoColor=ffffff)
 ![MicrosoftExcel](http://img.shields.io/badge/-Excel-287430?style=flat-square&logo=Microsoft-Excel&logoColor=ffffff)
