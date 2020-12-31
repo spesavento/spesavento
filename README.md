@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Sara! <img src="https://media1.giphy.com/media/XGn2UzT2RC17g5srwB/200.webp?cid=ecf05e47a04ff587decfbabff1bab524b813d290aa9684c4&rid=200.webp" width="100"></h2>
 
+<!--
+```java
+public Sara(){
+    name = "Sara Pesavento";
+    school = "USC"; //MS Computer Science
+    languages = String[]{"Java", "Python", "C++", "R", "SQL"};
+    tools = String[]{"Java", "Python", "C++", "R", "SQL"};
+}
+```
+-->
 <!--
 **spesavento/spesavento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
