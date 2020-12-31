@@ -9,8 +9,6 @@
   * Database Systems, Java/C++, Algorithms, Machine Learning
 * B.S. Statistics, UCLA
 
------
-
 #### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -37,13 +35,12 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=ffffff)
 
------
-
 #### Connect 👤
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sara-pesavento-95941811a/
+
 
 
 <!--
