@@ -6,7 +6,7 @@
 
 * M.S. Computer Science, USC
   * Spring 2022, GPA 3.85
-  * Database Systems, Java/C++ (Spring 2021: Operating Systems, Multimedia Systems Design)
+  * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms (Summer 2021)
 * B.S. Statistics, UCLA
 
 #### Languages and Tools 🛠 
