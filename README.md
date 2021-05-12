@@ -5,9 +5,13 @@
 #### About Me 👋
 
 * M.S. Computer Science, USC
-  * Spring 2022, GPA 3.85
+  * Fall 2022, GPA 3.85
   * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms (Summer 2021)
 * B.S. Statistics, UCLA
+
+BI Engineer Intern @Amazon 
+Google CSRMP 2021
+Research @USC
 
 #### Languages and Tools 🛠 
 
