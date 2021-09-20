@@ -37,7 +37,7 @@
 
 #### Connect 👤
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sara-pesavento-95941811a/
 
