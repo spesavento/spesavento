@@ -6,7 +6,7 @@
 
 * M.S. Computer Science, USC
   * Graduating Fall 2022, GPA 3.92
-  * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms (Fall 2021)
+  * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms, Information Retrieval and Web Search Engines (Spring 2022)
 * B.S. Statistics, UCLA
 
 #### Languages and Tools 🛠 
