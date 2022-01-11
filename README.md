@@ -5,7 +5,7 @@
 #### About Me 👋
 
 * M.S. Computer Science, USC
-  * Graduating Fall 2022, GPA 3.92
+  * Graduating Fall 2022, GPA 3.8
   * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms, Information Retrieval and Web Search Engines (Spring 2022)
 * B.S. Statistics, UCLA
 
