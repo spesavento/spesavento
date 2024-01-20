@@ -6,7 +6,7 @@
 
 * M.S. Computer Science, USC
   * Graduated Fall 2022
-  * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms, Information Retrieval and Web Search Engines (Spring 2022)
+  * Database Systems, Java/C++, Operating Systems, Multimedia Systems, Algorithms, Information Retrieval and Web Search Engines
 * B.S. Statistics, UCLA
 
 #### Languages and Tools 🛠 
